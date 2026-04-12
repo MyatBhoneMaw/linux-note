@@ -4,7 +4,7 @@ Linux မှာ User တွေကို စနစ်တကျ ခွဲခြာ
 
 ---
 
-# 👤 Linux User Management Guide (Chapter 6)
+# 👤 Linux User Management Guide
 
 Linux မှာ User အမျိုးအစား ၃ မျိုးရှိပြီး တစ်ဦးချင်းစီမှာ သီးသန့် ID (UID) တွေ ရှိကြပါတယ်။
 
